@@ -54,7 +54,7 @@ Saving Results:
 
 ---
 
- Skills Demonstrated:
+ Skills Demonstrated:\
   -Network Automation and DNS querying using Python and dnspython external library.\
   -CLI design with argument parsing using argv\
   -Interactive user input handling\
