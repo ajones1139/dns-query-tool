@@ -49,13 +49,13 @@ Can Run Interactively Also:
 
 ---
 
-## Saving Results:
+Saving Results:
     After queries complete, you can preview the results in CSV table or JSON formats directly in the terminal, then choose to save them as .csv or .json files. The tool automatically appends file extensions if omitted.
 
 ---
 
  Skills Demonstrated:
-  -Network Automation and DNS querying using Python and dnspython external library.
+  -Network Automation and DNS querying using Python and dnspython external library.\
   -CLI design with argument parsing using argv\
   -Interactive user input handling\
   -Structured data processing and export to CSV and JSON formats\
