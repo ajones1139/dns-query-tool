@@ -54,15 +54,14 @@ Can Run Interactively Also:
 
 ---
 
-## Skills Demonstrated:
+ Skills Demonstrated:
   -Network Automation and DNS querying using Python and dnspython external library.
-  -CLI design with argument parsing using argv
-  -Interactive user input handling
-  -Structured data processing and export to CSV and JSON formats
+  -CLI design with argument parsing using argv\
+  -Interactive user input handling\
+  -Structured data processing and export to CSV and JSON formats\
   -Error handling and logging
 
 ---
 
-## Contributions & Feedback:
-
+Contributions & Feedback:
 This is mainly a project where its efficient for simple queries, but also an invitation to expand and collaborate if you have any ideas of improvement or expanding functionality. Feedback is appreciated!
