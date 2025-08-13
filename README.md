@@ -30,23 +30,29 @@ Designed to deliver clear, actionable DNS insights, this tool serves as a valuab
    git clone https://github.com/ajones1139/dns-query-tool.git
    cd dns-query-tool
 2. Optional (but recommended) Create a Virtual Environment:
+```
   python3 -m venv venv
   source venv/bin/activate  # Linux/macOS
   .\venv\Scripts\activate   # Windows
-
-3. Install dependencies:
+```
+4. Install dependencies:
+```
    pip install -r requirements.txt or pip install dnspython pandas
-
+```
 ## Usage
 
 Run the script with one or more domains:
+```
     python dns-query-tool.py google.com,github.com -r A,MX
     -r or --records flag specifies which DNS record types to query.
-    If -r is omitted, it defaults to querying A, CNAME, AAAA, and TXT records with an interactive prompt to select which records to display.
+```
+
+If -r is omitted, it defaults to querying A, CNAME, AAAA, and TXT records with an interactive prompt to select which records to display.
 
 Can Run Interactively Also:
+```
     python dns-query-tool.py
-
+```
 ---
 
 Saving Results:
@@ -54,12 +60,12 @@ Saving Results:
 
 ---
 
- Skills Demonstrated:\
-  -Network Automation and DNS querying using Python and dnspython external library.\
-  -CLI design with argument parsing using argv\
-  -Interactive user input handling\
-  -Structured data processing and export to CSV and JSON formats\
-  -Error handling and logging
+ Skills Demonstrated:
+   - Network Automation and DNS querying using Python and dnspython external library.
+   - CLI design with argument parsing using argv
+   - Interactive user input handling
+   - Structured data processing and export to CSV and JSON formats
+   - Error handling and logging
 
 ---
 
